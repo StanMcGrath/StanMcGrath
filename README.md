@@ -2,6 +2,7 @@
 - 👀 I’m interested in Science & Computing, Programming in Java, C#, JavaScript, TypeScript, Web Development in HTML & CSS, Game Design & Development, 2D Art.
 - 🌱 I’m currently learning Java in Eclipse, JavaScript & Typescript in Angular + Ionic Frameworks, C# in Monogame Framework, 2D Spriting and frame by frame Animation in LibreSprite.
 - 💞️ I’m looking to collaborate on Game Development Projects.
+- 💞️ Currently working on Peer-to-peer Chat & Image Encryption Software.
 - 📫 How to reach me ... email stan.mcgrath@googlemail.com
 
 <!---
